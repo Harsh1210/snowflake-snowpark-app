@@ -16,7 +16,7 @@ Ensure the following tools are installed on your system:
 
 ## Architecture
 
-![alt text](image-2.png)
+![alt text](img/629fdcd05c61b258.png)
 
 The architecture of this application includes:
 - **Frontend Service**: Developed with React.js, served through NGINX.
@@ -271,11 +271,11 @@ USE WAREHOUSE query_wh;
 
    Now open up that URL in a browser. You will be prompted for a login, and here we can choose any of the users created earlier. You can use user1 with password password1. Note that you will be forced to change this on first login.
    
-   ![alt text](image-1.png)
+   ![alt text](img/f3177eac7444c8a1.png)
 
    Once logged in, the application loads the authorization status, and then redirects the user to the logged in Home page. After a few moments the data is loaded also and the charts for the current franchise (Franchise 1, if you logged in with user1) is shown.
 
-   ![alt text](image-3.png)
+   ![alt text](img/screenshot.png)
 
 2. **Useful Commands**
 
